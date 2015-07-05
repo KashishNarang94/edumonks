@@ -1,0 +1,84 @@
+<html>
+    <head>
+        <title>Blog Page</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/> 
+    </head>
+    <body>
+        <script src="js/jquery-1.11.2.js" type="text/javascript"></script>
+        <script src="Bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <nav class="navbar navbar-default">
+             <a class="navbar-brand active" href="#">Navbar element 1</a>
+             <a class="navbar-brand" href="#">Navbar element 2</a>
+             <a class="navbar-brand" href="#">Navbar element 3</a>
+        </nav>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="a.jpg"/>
+                    <h3>Blog 1</h3>
+                    <a href="#" class="glyphicon glyphicon-camera"> Picture</a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie neque non est porttitor,</p>
+                    <a class="btn btn-default" href="#">Read More!</a>
+                </div>
+                <div class="col-md-3">
+                    <img src="a.jpg"/>
+                    <h3>Blog 2</h3>
+                    <a href="#" class="glyphicon glyphicon-camera"> Picture</a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie neque non est porttitor,</p>
+                    <a class="btn btn-default" href="#">Read More!</a>
+                </div>
+                <div class="col-md-3">
+                    <img src="a.jpg"/>
+                    <h3>Blog 3</h3>
+                    <a href="#" class="glyphicon glyphicon-camera"> Picture</a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie neque non est porttitor,</p>
+                    <a class="btn btn-default" href="#">Read More!</a>
+                </div>
+                <div class="col-md-3">
+                    <img src="a.jpg"/>
+                    <h3>Blog 4</h3>
+                    <a href="#" class="glyphicon glyphicon-camera"> Picture</a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie neque non est porttitor,</p>
+                    <a class="btn btn-default" href="#">Read More!</a>
+                </div>
+            </div>
+        
+            <br>
+            <br>
+            
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="a.jpg"/>
+                    <h3>Blog 1</h3>
+                    <a href="#" class="glyphicon glyphicon-camera"> Picture</a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie neque non est porttitor,</p>
+                    <a class="btn btn-default" href="#">Read More!</a>
+                </div>
+                <div class="col-md-3">
+                    <img src="a.jpg"/>
+                    <h3>Blog 2</h3>
+                    <a href="#" class="glyphicon glyphicon-camera"> Picture</a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie neque non est porttitor,</p>
+                    <a class="btn btn-default" href="#">Read More!</a>
+                </div>
+                <div class="col-md-3">
+                    <img src="a.jpg"/>
+                    <h3>Blog 3</h3>
+                    <a href="#" class="glyphicon glyphicon-camera"> Picture</a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie neque non est porttitor,</p>
+                    <a class="btn btn-default" href="#">Read More!</a>
+                </div>
+                <div class="col-md-3">
+                    <img src="a.jpg"/>
+                    <h3>Blog 4</h3>
+                    <a href="#" class="glyphicon glyphicon-camera"> Picture</a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie neque non est porttitor,</p>
+                    <a class="btn btn-default" href="#">Read More!</a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
